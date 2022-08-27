@@ -13,5 +13,6 @@ print(char_frequency('sadhna'))
 
 
 Output:
-{'s'-1, 'a'-2, 'd'-1, 'h'-1, 'n'-1}
+{'s':1, 'a':2, 'd':1, 'h':1, 'n':1}
+
 
